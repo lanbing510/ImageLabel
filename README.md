@@ -17,7 +17,7 @@
 
 软件截图如下：
 
-![Aaron Swartz](https://github.com/lanbing510/Label/raw/master/screenshots/label.jpg)
+![Aaron Swartz](https://github.com/lanbing510/Label/raw/master/screenshots/label.png)
 
-
+左侧第一个目标为GrabCut进行标定的示例，第二个为手动标定的结果
 
